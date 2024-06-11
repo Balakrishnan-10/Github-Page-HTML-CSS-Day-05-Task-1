@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(202, 210, 197) !important; 
+}
+.lhs {
+    width :300px;
+    height:600px;
+    margin-top:40px;
+}
+.bb {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .rhs {
+    height: 180px;
+    width: 500px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .rhs-search {
+    height: 50px;
+    width: 80%;
+    margin-top: 30px;
+    letter-spacing: 3px;
+    padding-left: 20px;
+    color: rgb(159, 159, 159);
+  }
+  .rhsc {
+    background-color: aqua;
+    height:180px;
+    width:100px;
+    margin-bottom: 70px;
+}
